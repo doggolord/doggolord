@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @doggolord
+- 👋 Hi, I’m doggolord aka Gert Indrek Poljakov
 - 👀 I’m interested in Game dev , programming and virtual reality.
 - 🌱 I’m currently learning at kood/jõhvi a coding school in estonia that is similar to the 42 school system.
 - 📫 How to contact me! You can reach me through my email gertindrek@hotmail.com or through discord you can message me @ my ID "Cheems#7996"
