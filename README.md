@@ -2,3 +2,5 @@
 - 👀 I’m interested in Game dev , programming and virtual reality.
 - 🌱 I’m currently learning at kood/jõhvi a coding school in estonia that is similar to the 42 school system.
 - 📫 How to contact me! You can reach me through my email gertindrek@hotmail.com or through discord you can message me @ my ID "Cheems#7996"
+- 😎 My proudest projects to date are my game project with 2 of my friends that we did as our final project for school called "one bit hero" and "vr_tivoli" aka vr carnival that was an idea creation project of trying to flesh out the idea before starting the project.
+- 🥇 The knowlege I have right now. I have learned web dev basics with HTML, CSS, PHP and a little bit of javascript but kood/jõhvi has it as a part of the curriculum so im planing on learning it a lot more. I have also learned SQL, C, C++, C# but i havent touched those in a while. I have also had a bit of expirience with testing.
